@@ -46,6 +46,10 @@ python main.py
 
 - Open the files by clicking on the file names from the list under the "Search Results" heading.
 
+
+![Screenshot from 2023-05-05 22-03-49](https://user-images.githubusercontent.com/82121296/236548032-93dc899e-8bcd-47dd-9f49-7fa56158730f.png)
+
+
 ## Contribution :fist:
 
 - "fork" this repository.
