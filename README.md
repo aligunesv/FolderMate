@@ -35,7 +35,7 @@ pip install PyQt5 mimetypes
 ## How to Use :question:
 - Run the application:
 ```
-python main.py
+python foldermate.py
 ```
 
 - Select the folders to be searched by clicking on the field titled "Select Folders to Search".
